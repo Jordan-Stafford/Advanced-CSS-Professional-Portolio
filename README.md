@@ -15,7 +15,7 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Description](#description)
-- [Features](#features)
+- [Media](#media)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [Contact](#contact)
@@ -41,11 +41,13 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Description
+This is the second challenge assignment I did for the UT Austin Coding Bootcamp. I learned advanced css tricks and features as well as proper use of html semantic tags. This is the first out of many professional portfolios I have made. 
 
-## Features
-//INSERT MEDIA//
+## Media
+![GitHub_2](https://user-images.githubusercontent.com/114362462/212436975-c77a6aea-e05b-49b6-881c-5d5dc22331d6.png)
 
 ## Installation
+Fork this repo/copy the code onto your machine.
 
 ## Contributor(s)
 [Jordan-Stafford](https://github.com/Jordan-Stafford)
